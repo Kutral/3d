@@ -185,7 +185,7 @@ export default class MonitorScreen extends EventEmitter {
         // Set iframe attributes
         // PROD
         // iframe.src = 'https://os.henryheffernan.com/';
-        iframe.src = 'https://kutral.github.io/portfolio-os/';
+        iframe.src = 'https://kutral.github.io/3d-OS/';
         /**
          * Use dev server is query params are present
          *
